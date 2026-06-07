@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+scipy
+missingno
+ipykernelpandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+scipy
+missingno
+ipykernel

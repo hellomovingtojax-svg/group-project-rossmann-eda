@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+problem_statement_extracted/
+rossmann_xlsx_extracted/
+
+*_tmp.zip
+rossmann_tmp.zip
+problem_statement_tmp.zip
+
+~$*.xlsx
+~$*.docx
+
+# Optional local artifacts
+.DS_Store
+Thumbs.db
